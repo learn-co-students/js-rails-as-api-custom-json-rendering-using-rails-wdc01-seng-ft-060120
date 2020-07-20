@@ -1,0 +1,5 @@
+{
+  "tws.trimOnSave": false,
+  "tws.highlightTrailingWhiteSpace": true,
+  "tws.highlightOnlyChangedLines": false
+}
